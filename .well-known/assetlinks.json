@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "bzh.ama.advanced",
+                 "sha256_cert_fingerprints": ["C1:F6:3E:19:75:2F:67:F7:0E:50:59:1B:1A:F4:A7:6A:B9:B8:7C:14:2F:90:54:60:DA:36:6F:9E:58:90:CF:D3"] }
+  }]
